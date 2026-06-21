@@ -4,6 +4,8 @@ FairFlow Guardian is an explainable AI trading safety layer for the BGA AI Tradi
 
 For a concise judge-facing overview, see [PROJECT_DESCRIPTION.md](PROJECT_DESCRIPTION.md).
 
+For the full system architecture, see [docs/solution-diagram.md](docs/solution-diagram.md).
+
 ## Final submission packet
 
 - Judge-facing PPT: `output/presentation/fairflow_2_minute_video_deck.pptx`
