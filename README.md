@@ -2,6 +2,8 @@
 
 FairFlow Guardian is an explainable AI trading safety layer for the BGA AI Trading & Strategy Track. It does not try to win a pure PnL contest. It helps retail users understand whether a trade should be executed, reduced, or rejected by combining market regime analysis, manipulation-risk detection, liquidation stress testing, and a tamper-evident audit hash.
 
+For a concise judge-facing overview, see [PROJECT_DESCRIPTION.md](PROJECT_DESCRIPTION.md).
+
 ## Final submission packet
 
 - Judge-facing PPT: `output/presentation/fairflow_2_minute_video_deck.pptx`
