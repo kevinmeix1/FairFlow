@@ -1,0 +1,17 @@
+This is the complete FairFlow Guardian walkthrough for the BGA AI Trading and Strategy Track.
+
+The project is not trying to win a pure profit contest. It is a trading safety layer that asks a better question: is this market fair enough for a retail user to participate?
+
+The walkthrough starts with the judge-facing thesis, readiness score, current audit, and route proof. From there, it explains the live dashboard and the two most important demo paths.
+
+In the calm path, the system may approve a small paper trade, but only after checking liquidity, spread, volatility, hidden costs, liquidation stress, manipulation signals, and retail fairness.
+
+In the manipulated path, the same strategy is rejected. FairFlow blocks the trade, locks the execution route, and explains why no trade is the healthier market action.
+
+The middle of the walkthrough shows what makes the project agentic. A strategy agent proposes, but risk, manipulation, execution, cohort fairness, policy stress, red-team, and audit agents can challenge or block the action.
+
+The evidence pack turns the decision into something judges can inspect. It includes the receipt, guardrail failures, route analysis, policy stress results, cohort impact, red-team probes, and an on-chain anchor payload.
+
+The final message is simple. FairFlow reduces information asymmetry, protects smaller retail accounts, and makes automated trading decisions easier to verify and challenge.
+
+It is built around better systems, not bigger bets.
