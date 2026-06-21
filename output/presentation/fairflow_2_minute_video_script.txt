@@ -1,0 +1,21 @@
+FairFlow Guardian - 2 Minute Video Script
+Target runtime: 2:00
+Voiceover word count: 155
+
+Slide 1 (0:00-0:15)
+FairFlow Guardian is an AI trading safety layer for the BGA track. It proves when a market is fair enough to review, and when no trade is the healthiest action.
+
+Slide 2 (0:15-0:34)
+The retail problem is not only prediction. A trade can look profitable and still be unfair because of hidden costs, thin liquidity, spoofing, leverage pressure, or opaque automation.
+
+Slide 3 (0:34-0:54)
+FairFlow turns public market data into liquidity, volatility, cost, manipulation, and risk features. The strategy agent can propose, but execution requires fairness, risk, route, and audit gates.
+
+Slide 4 (0:54-1:18)
+In the demo, start with the Competition Runway: readiness, audit hash, evidence pack, route proof, and calm paper approval. Then switch to Manipulated and show the refusal.
+
+Slide 5 (1:18-1:41)
+The best proof is the manipulated case. Same system, same asset, lower market integrity. FairFlow blocks the trade, locks the route, and records why.
+
+Slide 6 (1:41-2:00)
+Close on the judging criteria: retail fairness, agentic depth, risk-first design, and inspectable proof. Better systems, not bigger bets.

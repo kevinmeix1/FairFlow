@@ -1,0 +1,22 @@
+node_modules
+.next
+dist
+.venv
+__pycache__
+.pytest_cache
+.env
+tmp
+*.pyc
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Generated QA/debug exports. Final submission assets are curated under /submission.
+output/presentation/*.inspect.ndjson
+output/presentation/*_notes_inspect.ndjson
+output/presentation/fairflow_2min_video_preview/
+output/presentation/fairflow_2min_video_rendered/
+
+# Local OS/editor noise
+.DS_Store
+*.log
