@@ -1,0 +1,17 @@
+FairFlow Guardian is an AI trading safety layer for the BGA AI Trading and Strategy Track.
+
+The thesis is simple: a better trading system should not just chase returns. It should know when the market is fair enough for retail users, and when no trade is the safer answer.
+
+The demo starts on the dashboard. Judges see live market context, active agents, readiness, route proof, and a verifiable audit hash.
+
+In calm conditions, FairFlow allows only a small, risk-capped paper trade. That approval is conditional. The strategy is checked against liquidity, spread, volatility, hidden cost, liquidation stress, manipulation signals, and retail fairness.
+
+Then the demo switches to the manipulated path. The asset is the same, but market integrity is lower. FairFlow blocks the trade, locks execution, and explains which guardrails failed.
+
+That is the key product choice. The agent is not rewarded for forcing action. It is rewarded for refusing unsafe automation.
+
+The evidence pack makes the decision inspectable. Each audit includes the receipt, agent concerns, policy stress result, red-team probes, cohort fairness check, and on-chain anchor payload.
+
+FairFlow aligns with blockchain-for-good by reducing information asymmetry, protecting smaller accounts, making risk visible, and keeping decisions open to challenge.
+
+The strongest claim is not that it predicts every market. The claim is that it makes trading automation safer, fairer, and more accountable.

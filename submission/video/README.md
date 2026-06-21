@@ -1,11 +1,21 @@
 # Demo Video
 
-Place the final recorded demo video in this folder.
+Final demo video exports live in this folder.
 
-Suggested filename:
+Recommended submission file:
 
 ```text
-FairFlow_Guardian_2min_demo.mp4
+FairFlow_Guardian_live_demo_from_pdf_narrated.mp4
+```
+
+This is a 2:00, 1920x1080 MP4 with a neutral male voiceover.
+
+Also included:
+
+```text
+FairFlow_Guardian_live_demo_from_pdf_male_natural.mp4
+FairFlow_Guardian_live_demo_from_pdf.mp4
+FairFlow_Guardian_live_demo_voiceover_male.txt
 ```
 
 If the file is larger than GitHub's normal upload limit, use GitHub Releases, Git LFS, or the hackathon submission platform and add the link here.
